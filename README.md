@@ -14,7 +14,7 @@
 * Search.
 * Delete.
 
-## [Problem Set 6] (https://github.com/1915002510/cse214/tree/main/Problem%20Set%206)
+## [Problem Set 6](https://github.com/1915002510/cse214/tree/main/Problem%20Set%206)
 
 * Create.
 * Declare.
@@ -23,7 +23,7 @@
 * Traverse.
 * Output.
 
-## [Problem Set 7] (https://github.com/1915002510/cse214/tree/main/Problem%20Set%207)
+## [Problem Set 7](https://github.com/1915002510/cse214/tree/main/Problem%20Set%207)
 
 * Create.
 * Empty.
@@ -34,7 +34,7 @@
 * Reverse.
 * Merge.
 
-## [Problem Set 8] (https://github.com/1915002510/cse214/tree/main/Problem%20Set%208)
+## [Problem Set 8](https://github.com/1915002510/cse214/tree/main/Problem%20Set%208)
 
 * Delete Back.
 * Delete Front.
@@ -42,7 +42,7 @@
 * Delete At.
 * Delete Ab/Clear.
 
-## [Problem Set 9] (https://github.com/1915002510/cse214/tree/main/Problem%20Set%209)
+## [Problem Set 9](https://github.com/1915002510/cse214/tree/main/Problem%20Set%209)
 
 * Insert Front.
 * Insert Back.
